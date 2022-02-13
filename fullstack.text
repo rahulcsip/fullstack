@@ -1,0 +1,15 @@
+backend
+express dotenv nodemon npm
+
+
+
+
+
+
+
+frontend
+react react-router-dom
+
+
+
+
